@@ -1,6 +1,6 @@
 # Horiseon Homepage Accessibility Refactor
 
-challenge-module-01 : Refactoring the style.css and the index.html with proper semantic.
+Horiseon Homepage : Refactoring the style.css and the index.html with proper semantic.
 
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
 
