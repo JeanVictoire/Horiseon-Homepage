@@ -1,4 +1,4 @@
-# challenge-module-01 submission
+# Horiseon Homepage Accessibility Refactor
 
 challenge-module-01 : Refactoring the style.css and the index.html with proper semantic.
 
@@ -9,3 +9,10 @@ I made sur to use proper semantic and also I made sure to comment the code so it
 I also made the code smaller by removing element that repeat itself.
 
 I Made sure all the link function properlly.
+
+
+# Active Link : 
+
+
+
+<img width="338" alt="code-refactor" src="https://user-images.githubusercontent.com/100246393/168657549-4e5f52d9-c6c2-49e8-90b9-aec683837a4c.png">
